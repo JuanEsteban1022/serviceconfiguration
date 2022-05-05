@@ -2,4 +2,4 @@ Product:
   property: Product Profile Dev
 
 app:
-  testProp: Property of test
+  testProp: Property of test Updated for Bus Message Broker
